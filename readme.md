@@ -12,7 +12,6 @@ This repository contains a Terraform script to create a Google Cloud Platform (G
 ## Requirements
 
 - [Terraform](https://www.terraform.io/downloads.html)
-- [Docker](https://www.docker.com/get-started)
 - [GCP account](https://cloud.google.com/) with required permissions
 - [Google Cloud SDK](https://cloud.google.com/sdk/docs/install)
 
