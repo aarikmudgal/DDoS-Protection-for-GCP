@@ -1,6 +1,6 @@
 # Terraform GCP Kubernetes Deployment
 
-This repository contains a Terraform script to create a Google Cloud Platform (GCP) Artifact Registry repository, build a Docker image, push the image to the repository, create an Autopilot Kubernetes cluster, and deploy a service with the created image.
+This repository contains a Terraform script to create an Autopilot Kubernetes cluster, and deploy a kubernetes ingress service on Google Cloud Platform (GCP).
 
 ## Features
 
