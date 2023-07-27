@@ -4,10 +4,8 @@ This repository contains a Terraform script to create a Google Cloud Platform (G
 
 ## Features
 
-- Create a GCP Artifact Registry repository
-- Build and push Docker image
 - Create an Autopilot Kubernetes cluster
-- Deploy a Kubernetes service with the Docker image
+- Deploy a Kubernetes service with default Nginx image
 - Expose the service using Kubernetes Ingress
 - Create a Cloud Armor security policy
 
@@ -36,15 +34,6 @@ sudo mv terraform /usr/local/bin/
 ```
 
 On Windows, you can move the binary to a directory included in your PATH, or add the directory containing the binary to your PATH.
-
-### Docker
-To install Docker:
-
-1. Visit the [Docker downloads page](https://www.docker.com/get-started).
-
-2. Download the Docker Desktop installer for your operating system.
-
-3. Run the installer and follow the prompts.
 
 ### Google Cloud SDK
 To install the Google Cloud SDK:
