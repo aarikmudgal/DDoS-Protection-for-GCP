@@ -1,6 +1,6 @@
 
 variable "project" {
-  description = "cf-tarc-tarc-aarikmud-do"
+  description = "<Your Project ID>"
   type        = string
 }
 variable "region" {

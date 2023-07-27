@@ -1,4 +1,4 @@
-project         = "cf-tarc-tarc-aarikmud-do"
+project         = "<YOUR PROJECT ID>"
 region          = "europe-west1"
 repository_id   = "my-artifact-repo"
 location        = "europe"
